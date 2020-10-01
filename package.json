@@ -4,5 +4,9 @@
   "license": "MIT",
   "scripts": {
     "test": ""
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "playwright": "^1.4.1"
   }
 }
